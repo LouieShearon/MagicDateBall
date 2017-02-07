@@ -1,4 +1,4 @@
-# MagicDateBall
+# Magic Date Ball
 
 Privacy Policy for Magic Date Ball Inc
 
